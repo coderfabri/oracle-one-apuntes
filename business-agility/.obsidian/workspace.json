@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "acd5b47cd1c41dc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5711d9d19c137f62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25d459ca57a52fdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Fundamentos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59e661685684912f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Fundamentos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1128252ea98f2e3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Manifiesto Agil.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49912495d0e5336e",
+    "type": "split",
+    "children": [
+      {
+        "id": "30d90b8e088d0537",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0771a62a3588874a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23e9745f5a536a02",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a4c82b4d50b9e66",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b96d8606f92b41d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffb277db5b6bb3d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b065cfa299e625fb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. Manifiesto Agil.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f8dea8486d114da9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3. Manifiesto Agil.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4daa905f128b7fe1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "99cad8fb19aadb22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3. Manifiesto Agil.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0771a62a3588874a",
+  "lastOpenFiles": [
+    "2. Caracteristícas.md",
+    "3. Manifiesto Agil.md",
+    "1. Fundamentos.md"
+  ]
+}
