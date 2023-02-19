@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ce66b49823f8ccfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "java/Características.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "business-agility/4. VUCA.md",
+                "file": "java/Características.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "business-agility/4. VUCA.md",
+                "file": "java/Características.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "business-agility/4. VUCA.md"
+                "file": "java/Características.md"
               }
             }
           }
@@ -146,9 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "419099b4467fddb7",
+  "active": "ce66b49823f8ccfa",
   "lastOpenFiles": [
-    "business-agility/3. Manifiesto Agil.md",
-    "business-agility/4. VUCA.md"
+    "business-agility/4. VUCA.md",
+    "business-agility/3. Manifiesto Agil.md"
   ]
 }
