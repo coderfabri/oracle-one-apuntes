@@ -1,0 +1,9 @@
+La plataforma Java es un conjunto de tecnologías que incluye el lenguaje de programación Java, la Máquina Virtual de Java (JVM), el Kit de Desarrollo de Java (JDK), el Entorno de Ejecución de Java (JRE) y una amplia gama de bibliotecas y APIs (interfaces de programación de aplicaciones) estándar.
+
+* La Máquina Virtual de Java es un componente clave de la plataforma Java. Es un software que se ejecuta en el sistema operativo y proporciona un entorno de ejecución para las aplicaciones Java. La JVM es responsable de interpretar y ejecutar el código Java compilado en bytecode, que es un formato de código intermedio que se puede ejecutar en cualquier sistema que tenga una JVM instalada. Esto permite que las aplicaciones Java sean altamente portátiles y se puedan ejecutar en diferentes plataformas de hardware y sistemas operativos sin necesidad de recompilar el código fuente.
+
+* El Kit de Desarrollo de Java (JDK) es un conjunto de herramientas que se utiliza para desarrollar aplicaciones Java. Incluye el compilador Java, que se utiliza para convertir el código fuente Java en bytecode, así como otras herramientas como depuradores, perfiles y documentación.
+
+* El Entorno de Ejecución de Java (JRE) es un subconjunto del JDK que solo incluye la JVM y las bibliotecas de tiempo de ejecución necesarias para ejecutar aplicaciones Java. Se utiliza principalmente para ejecutar aplicaciones Java, mientras que el JDK se utiliza para desarrollar aplicaciones Java.
+
+En conjunto, la plataforma Java proporciona un entorno completo para el desarrollo y la ejecución de aplicaciones Java en diferentes plataformas. Su capacidad de portabilidad, seguridad y escalabilidad lo convierten en una opción popular para desarrollar aplicaciones empresariales, aplicaciones de escritorio, aplicaciones web y aplicaciones móviles.
