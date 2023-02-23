@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/1. Características.md",
+                "file": "java/Fundamentos/1. Características.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/2. Plataforma Java.md",
+                "file": "java/Fundamentos/2. Plataforma Java.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/3. Proceso de ejecución.md",
+                "file": "java/Fundamentos/3. Proceso de ejecución.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/4. Tipos de Datos.md",
+                "file": "java/Fundamentos/3. Proceso de ejecución.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/4. Tipos de Datos.md",
+                "file": "java/Fundamentos/3. Proceso de ejecución.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/4. Tipos de Datos.md",
+                "file": "java/Fundamentos/3. Proceso de ejecución.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/4. Tipos de Datos.md"
+                "file": "java/Fundamentos/3. Proceso de ejecución.md"
               }
             }
           }
@@ -197,9 +197,10 @@
   },
   "active": "29f7b469002a276a",
   "lastOpenFiles": [
-    "java/3. Proceso de ejecución.md",
-    "java/2. Plataforma Java.md",
-    "java/1. Características.md",
+    "java/Fundamentos/4. Tipos de Datos.md",
+    "java/Fundamentos/3. Proceso de ejecución.md",
+    "java/Fundamentos/2. Plataforma Java.md",
+    "java/Fundamentos/1. Características.md",
     "business-agility/4. VUCA.md",
     "business-agility/3. Manifiesto Agil.md"
   ]
